@@ -1,0 +1,7 @@
+#videobox > video {
+	float: left;
+	display: block;
+}
+#you {
+	transform: matrix(-1,0,0,1,0,0);
+}
